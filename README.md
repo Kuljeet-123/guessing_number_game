@@ -1,4 +1,4 @@
-# Guessing_number_game
+# Guessing_Number_Game
 
 “Guess the Number” game. The computer will think of a random number, and ask you to guess it. The computer will tell you if each guess is too high or too low. You win if you can guess the number within five tries.
 
